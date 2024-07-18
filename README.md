@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react, node**
 
-- 👯 I’m looking to collaborate on **front end projects**
+- 👯 I’m looking to collaborate on **Full stack projects**
 
 - 📫 How to reach me **kavyaagarwal9903@gmail.com**
 
