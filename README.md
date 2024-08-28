@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kavya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://komarev.com/ghpvc/?username=shreyasidebnath&label=Profile%20views&color=0e75b6&style=flat](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)">
-
+<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 - 🔭 I’m currently working on **Frontend Development**
 
 - 🌱 I’m currently learning **react, node**
